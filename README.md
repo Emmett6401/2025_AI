@@ -31,3 +31,9 @@ README.md 파일에 마크다운 형식으로 뱃지를 넣으면 돼.
 ![GitHub stars](https://img.shields.io/github/stars/사용자명?style=social)
 
 ![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 통계 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=radical)
