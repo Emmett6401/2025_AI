@@ -18,7 +18,7 @@ https://emmett6401.github.io/2025_AI_web01/
 5. 김현주 https://github.com/Hzxnju
 6. 강한솔 https://github.com/one1212
 7. 강지훈 https://github.com/Hoon622
-8. 이수
+8. 이수 https://github.com/2siuuuu
 9. 오민수 https://github.com/ohbabo
 10. 김상혁 https://github.com/KS0721 
 11. 박상한 https://github.com/parksanghan
