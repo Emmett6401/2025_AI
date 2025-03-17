@@ -28,8 +28,9 @@ https://emmett6401.github.io/2025_AI_web01/
 15. 김정우  https://github.com/jwww781
 
 ### 우리들 사진
-![이미지 1](image/1.jpg)
-![이미지 2](image/2.jpg)
+
+<img src="image/1.jpg" width="200" height="200" />
+<img src="image/2.jpg" width="200" height="200" />
 
 
 ### 뱃지 넣는 방법
