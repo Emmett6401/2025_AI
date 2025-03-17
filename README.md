@@ -22,7 +22,7 @@ https://emmett6401.github.io/2025_AI_web01/
 9. 오민수 https://github.com/ohbabo
 10. 김상혁 https://github.com/KS0721 
 11. 박상한 https://github.com/parksanghan
-12. 이지상                                   https://fring-cloud.github.io/fring-cloud/
+12. 이지상 https://github.com/akkwarrdness  https://fring-cloud.github.io/fring-cloud/
 13. 최승균  https://github.com/Cov4w
 14. 김기성 https://github.com/KS0721 
 15. 김정우  https://github.com/jwww781
