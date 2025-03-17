@@ -36,4 +36,4 @@ README.md 파일에 마크다운 형식으로 뱃지를 넣으면 돼.
 
 ### 통계 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmett6401&show_icons=true&theme=radical)
