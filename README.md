@@ -49,3 +49,6 @@ README.md 파일에 마크다운 형식으로 뱃지를 넣으면 돼.
 
 ### 웹싸이트의 그림 가져 오기 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="40" height="40" />
+
+### 2025년 3월 17일 파이썬 개발 환경 구축과 주소록 만들기 수업 
+https://github.com/Emmett6401/installation_Python
