@@ -35,3 +35,6 @@ README.md 파일에 마크다운 형식으로 뱃지를 넣으면 돼.
 
 ### 통계 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmett6401&show_icons=true&theme=radical)
+
+### 웹싸이트의 그림 가져 오기 
+![예쁜그림](https://imgur.com/gallery/atlas-day-E9UCL55)
