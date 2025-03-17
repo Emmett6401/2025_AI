@@ -21,4 +21,12 @@
 ![이미지 2](image/2.jpg)
 
 
+### 뱃지 넣는 방법
+좋은 아침! 😊 GitHub 프로필에 뱃지를 추가하려면, 
+README.md 파일에 마크다운 형식으로 뱃지를 넣으면 돼. 
+예를 들어, Shields.io에서 제공하는 뱃지를 사용하면 이렇게 추가할 수 있어:
+
+
+![GitHub followers](https://img.shields.io/github/followers/사용자명?style=social)
+![GitHub stars](https://img.shields.io/github/stars/사용자명?style=social)
 
