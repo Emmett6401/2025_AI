@@ -1,10 +1,18 @@
 # 2025_AI
 ## 이 과정은 AI 응용 프로그램을 제작하는 방법을 함께 연구합니다. 
+## 담당교수는 황동하 입니다. 
+여기는 홈페이지 만들기 샘플입니다. 
+1. REPO만들고 index.html 파일 만들기 
+2. Settings 에서 page
+3. Branch None를 main으로 바꾸고
+4. save
+5. 잠시후 reflash 하면 웹사이트의 주소가 생성되고 아래와 같이 만들어 짐
+https://emmett6401.github.io/2025_AI_web01/
 ### 명단
-1. 정윤우
+1. 정윤우 https://github.com/GETnetWorkk
 2. 김태연 https://github.com/taeyeon349
 3. 정주훈 https://github.com/jeongjuhun
-4. 김태현
+4. 김태현 https://github.com/bird8696
 5. 김현주
 6. 강한솔 https://github.com/one1212
 7. 강지훈 https://github.com/Hoon622
