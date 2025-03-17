@@ -7,22 +7,24 @@
 3. Branch None를 main으로 바꾸고
 4. save
 5. 잠시후 reflash 하면 웹사이트의 주소가 생성되고 아래와 같이 만들어 짐
+   
 https://emmett6401.github.io/2025_AI_web01/
+
 ### 명단
 1. 정윤우 https://github.com/GETnetWorkk
 2. 김태연 https://github.com/taeyeon349
 3. 정주훈 https://github.com/jeongjuhun
 4. 김태현 https://github.com/bird8696
-5. 김현주
+5. 김현주 https://github.com/Hzxnju
 6. 강한솔 https://github.com/one1212
 7. 강지훈 https://github.com/Hoon622
 8. 이수
-9. 오민수
-10. 김상혁
+9. 오민수 https://github.com/ohbabo
+10. 김상혁 https://github.com/KS0721 
 11. 박상한 https://github.com/parksanghan
-12. 이지상
+12. 이지상                                   https://fring-cloud.github.io/fring-cloud/
 13. 최승균  https://github.com/Cov4w
-14. 김기성
+14. 김기성 https://github.com/KS0721 
 15. 김정우  https://github.com/jwww781
 
 ### 우리들 사진
